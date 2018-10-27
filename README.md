@@ -1,5 +1,5 @@
 # Finterest -  _HackGT 2018_
-*Winner of best use of BlackRock API, Capitol One best Financial Hack prizes and placed top 8 overall out of 1000 participants*
+*Winner of best use of BlackRock API and Capital One's best financial hack prizes and placed top 8 overall out of 1000 participants*
 
 **By: Brian Model, Ishan Arya, Rahul Bhethanabotla, Naveen Ram**
 
@@ -19,9 +19,9 @@ Enjoy a lightweight, universal chrome extension that operates on all news websit
 
 # Tools
 
-- BlackRock API
 - Microsoft Azure's text analysis API for Natural Language Processing (Keyword detection and Sentiment analysis)
 - Natural Language Toolkit (NLTK)
+- BlackRock API
 - Python's Flask framework
 - Javascript
 - Docker
